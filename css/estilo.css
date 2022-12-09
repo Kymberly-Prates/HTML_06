@@ -1,0 +1,14 @@
+tatble,tr,th,td
+{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+td{
+    padding-top: 20px;
+    padding: 6px;
+    padding-bottom: 10px;
+    padding-right: 35px;
+    padding-left: 7px;
+    padding: auto;
+}
